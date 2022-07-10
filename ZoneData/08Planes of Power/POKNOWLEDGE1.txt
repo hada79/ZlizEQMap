@@ -1,0 +1,39 @@
+442|303|2343|2340
+Enchanter, Wizard, and Magician Trainers
+Warrior and Monk Trainers
+Bard and Rogue Trainers
+Quest NPC's
+Shaman, Cleric, Druid, and Beastlord Trainers
+Merchants selling Plate Armor Molds, Small Chain Molds, Ore, and Hammers
+Pottery Wheel and Kiln outside, Merchants selling Pottery Supplies and Pottery Sketches
+Merchants selling Metal, all Gems, Jewelry Kit
+Bank
+Merchants selling Gems, Coffins, Spell Components, Food and other Goods, Fishing Supplies
+Merchants selling Dyeing Supplies, Chainmail Patterns, Ore, Clay, Hammers, Small and Large Chainmail Patterns, Basic Blacksmithing Molds, Tailoring Supplies and Patterns, Forge and Sewing Kit inside
+Merchants selling Poison Supplies and Alchemy Supplies, Fletching and Bowmaking Supplies
+Merchants selling Mixing Bowl, Vegetables, Brewing Supplies, Brew Barrel inside; Outside Merchants selling Brewing Supplies, Plate Armor, Large Plate Armor and Weapon Molds
+Merchants selling Baking Supplies, Oven inside; Outside Merchants selling Food and other Goods, Large Chain Molds, Pottery Sketches, Cookie Molds, Metals, Rare Gems and Jewelry Supplies, Cooking Supplies and Cooking Books, Brew Barrel
+Bank
+empty
+Merchant selling Food and Other Goods, Brewing Books, Brewing Supplies,
+Merchants selling Tinkering Supplies, Full Plate Molds, Small Plate Molds, Large Chain Molds, Chain Molds, Forges inside
+Wizard, Magician, and Enchanter Trainers
+Monk, Warrior, Paladin, Rogue, Bard and Ranger Trainers
+Quest NPC's
+Merchants selling Food and Goods, Lightstones, and Potions
+Shaman and Beastlord Trainers, Soulbinder outside
+Cleric Trainer, Bookseller - Meldrath books
+Quest NPC's
+Shaman, Cleric, and Bard Trainers, Bookseller
+Monk, Rogue, Shadow Knight, Warrior and Beastlord Trainers
+Enchanter, Necromancer, Wizard, and Magician Trainers, Merchant, Bookseller - Necropolis and Deadtimes books
+*The Great Library (entry on 2nd level)
+*Bottom Level: Necromancer Spells, Shadowknight Spells
+*First Level (Balcony):
+*Second Level: Wizard Spells, Enchanter Spells, Bard Spells, Bookseller - Great Wall of Ceteit books, Bookseller - The Journal of Erud, Mujaki's Challenge, and The Hole Uncovered ooks
+*Second Level (Balcony): Cleric Spells,
+*Third Level: Shaman Spells, Druid Spells, Bookseller - Unkempt Warders and Unkempt Druids books
+*Third Level (Balcony): Magician Spells
+*Fourth Level: Ranger Spells, Paladin Spells, Bookseller - From Pond to Paladin books, Bookseller - Ardathium books
+*Fourth Level (Balcony): Beastlord Spells, Bookseller - Prophecy of Vah: A History of Vah Shir books, Bookseller - Chronicle of Gromok books
+*Top Floor (up the elevator): Grand Librarian and Council

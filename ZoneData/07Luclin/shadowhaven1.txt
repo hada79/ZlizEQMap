@@ -1,0 +1,48 @@
+456|376|3037|3069
+1 upstairs - Inn and Bank, downstairs - Magician supplies 	 
+2 Library with Enchanter, Wizard, and Magician spells, Enchanter Trainer, downstairs Magician Trainer 	 
+3a Meats and Stews, Food, Jewelry supplies 	 
+3b Izbat's Wondrous Robes - robes and cloaks, Food and goods, Robes, Staves, Talking Scrolls - Generic spells 	 
+4 Monk Trainer, Wizard Trainer at north end of open area (by stairs) 	 
+5 Large cloth armor, Cloth armor, Food and goods, Brewing Supplies 	 
+6 Sewing Kit, Baking Molds, Basic Smithing equipment, Forge, Large Molds, Armor Molds, Blacksmithing Molds 	 
+7 empty 	 
+8 The Fordel Hold - Bank 	 
+9 Grimthor's Distillery - Food and goods, Alcohol, Brew Barrels 	 
+10 empty 	 
+11 Instruments, Food and goods, Fordel Scout armor, Fordel weapons, Rough hide armor, Boots 	 
+12 Paladin and Cleric Trainers, Paladin and Cleric spells 	 
+13 Oven, Alcohol 	 
+14 Warrior Trainer 	 
+15 Alcohol, Brew Barrel 	 
+16 The Black Kettle - Alcohol 	 
+17 Rogue Trainer 	 
+18 Large Rough hide armor, Sewing Kit, Alchemy Supplies, Building east of this has Sewing Kit and Merchant selling ?, Soulbinder outside 	 
+19 empty 	 
+20 Bank, room north of this has Gems 	 
+21 Heavy and regular boxes and bags, outside Merchants selling Food and other Goods 	 
+22 Transporter to Nexus, Soulbinder nearby 	 
+23 Teleporter to underground 	 
+23a Ranger Trainer and spells 	 
+23b Druid Trainer and spells 	 
+23c Beastlord Trainer and spells 	 
+23d Shaman Trainer and spells 	 
+23e Tree, click to go back to 23 	 
+24 Food and goods, Basic Blacksmithing supplies, Forge, Blade Molds, Shield Molds, Room to east has Food and other Goods 	 
+25 Bard Trainer, Alcohol, Oven 	 
+26 Fletching and Bowyer Supplies 	 
+27 Marchop's Micro Metals - Tinkering supplies 	 
+28 Shandeling's Roost - Inn 	 
+29 Alcohol 	 
+30 Jewelry supplies, metals, and gems 	 
+31 Sewing patterns, Rough hide armor 	 
+32 The Lost Turnip - Oven, Vegetables, Bags outside 	 
+33 Deepcarver Plate and Pickbringers Chain armor 	 
+34 Basic Blacksmithing and Dyeing supplies, Small armor molds, Forge 	 
+35 Kiln, Pottery Wheel, Small leather armor, Alcohol, Fishing supplies, Pottery sketches, Basic Pottery supplies, Potions/Crystals 	 
+36 Food 	 
+37 Boots 	 
+38 Bank 	 
+39 Food and Drink 	 
+40 Gems 	 
+41 Weapons	 

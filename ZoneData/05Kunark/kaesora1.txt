@@ -1,0 +1,10 @@
+222|208|1239|757|Main Level
+Room with Reaver of Xalgoz who drops ? Rod of Battle
+"Runelord Room" with Spiders and Straithbone Runelord who drops Kylong War Dagger (? Rarity), Blade of Fiery Lamentations (Common), and Dagger of Frost (Rare)
+"Frenzied Room" with Frenzied Straithbone who drops Mask of the Eight Eyes (Common) and Cryptrobber's Knife (Rare)
+"Backyard" with Warder of Xalgoz who drops Spine Piercer (Uncommon) and ? Deadwood Staff
+"Library" with Spectral Librarian who drops Spectral Shroud (Common) and Spirit Tome (Uncommon), Tortured Librarian who drops Kunzar Mantle (Common), Spirit Tome (Uncommon) and Sage's Battle Staff (Rare), Guardian of Xalgoz who drops Shield of Spectral Essence (Rare), and ? Failed Crypt Raider who drops Terraz Ton Coin, Spear of Mortification (Uncommon) and Kylong Hunting Knife (Rare)
+Hut with Hungered Ravener who drops Icy Blade (Common) and ? Luminary Two-Handed Sword
+Broken Floor Room, dropping down leads to pathway to exit and also to Church area
+*Note that Red X's above denote pits leading downward.
+*Note that the arrows above denote areas where you can only go one way, either down a pit or a ramp.

@@ -1,0 +1,6 @@
+303|245|1006|749|Level Two
+Snake Pit
+Snake Ledge
+Elite Room
+Commander Room
+Fall to here from pit trap above

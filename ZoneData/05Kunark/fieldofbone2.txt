@@ -1,0 +1,5 @@
+284|223|1453|1597|Sub Maps
+*A Entrance to Marauder's Hideout with Kerosh Blackhand
+*B Entrance to Sythrak's Temple with Gharg Oberbord
+*C Entrance to Abandoned Crypt
+*D Entrance to Bonebinder Warrens

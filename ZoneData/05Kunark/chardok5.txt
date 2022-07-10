@@ -1,0 +1,2 @@
+1023|-158|965|1269
+*Herbalist and Royals rooms have been superimposed upon the map; player location will be off

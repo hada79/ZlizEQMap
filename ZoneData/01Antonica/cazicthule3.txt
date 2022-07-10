@@ -1,0 +1,9 @@
+399|456|566|526|Courtyard
+"Throne Room" or "TR" - spawns Tae Ew Templar who drops Lizardscale Cloak (common) and Ravenscale Leggings (rare) and Tae Ew Diviner who drops Lizardscale Mantle (common) and Ravenscale Bracer (rare)
+Throne Room upstairs - spawns a stone golem who drops Potion of Stone Skin (common) and Ravenscale Coif (rare)
+Tunnel goes to second (middle) level of Avatar Pyramid
+Tunnel goes to first (top) level of Avatar Pyramid
+Water tunnel drops down to the Ponds below
+"Courtyard" or "CY"
+To the Maze
+Water tunnel drops down to the Gator Pit below 

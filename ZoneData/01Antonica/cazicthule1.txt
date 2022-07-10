@@ -1,0 +1,5 @@
+292|452|1570|1564|Main Map
+Avatar Pyramid - top of pyramid spawns high level lizards, including Silvered Guards and Crusaders, middle level is water-filled, all levels connect
+Archon Pyramid - any level spawns A Lizard Crusader which drops decayed armor for Darkforge Armor Quests, top room spawns Tae Ew Archon which drops Lizardscale Belt (common) and Ravenscale Armguards (rare)
+"Throne Room" or "TR"
+"Courtyard" or "CY" 

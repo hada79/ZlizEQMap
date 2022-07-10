@@ -1,0 +1,22 @@
+-138|63|1004|1221
+Room with Fire Goblin Captain who drops Charred Boots (Common) and Charred Gloves (Rare)
+Room with Kindle who drops Obsidian Ring (Common) and Impskin Gloves (Rare)
+Efreeti Pits with Blazing Elementals and Reckless Efreeti who drops Platinum Armbands (Common) and Obsidian Flamberge (Rare)
+Lava Elemental Room with Lava Elemental who drops Lava Potion (Common) and Runed Lava Pendant (Rare)
+Doorway to upper level of Solusek Mining Company (not shown) with Captain Bipnupple who drops Brick of Blue Ore (Common) and Gnomish Environmental Suit (Rare)
+Room with Singe who drops Obsidian Bead Hoops (Common) and Drakescale Belt (Rare)
+Gnome Merchant named Marfen who sells Tinkerer's Pack
+"Gabbie's Room" with Gabbie Mardoddle who drops Mithril Quill (Common) and Molten Cloak (Rare) and CWG Model CX that drops Clockwork Oil Stout
+Courtyard where spawns the wandering CWG Model EXG who drops Charred Guardian Shield (Common) and Charred Guardian Breastplate (Rare)
+Hallway with Kobold Predator who drops Kobold Hide Boots (Common) and Obsidian Shard (Rare)
+"Foreman's Room" with Goblin Foreman who drops Foreman's Tunic (Common) and Obsidian Scimitar (Rare)
+"Window Room"
+"The Pit"
+Room with Goblin Merchant
+"Bar" with Fire Goblin Bartender who drops Drake Hide Leggings (Common) and Drake Hide Sleeves (Rare)
+"Drunkard Room" with Fire Goblin Drunkard who drops Frothy Goblin Tonic (Common) and Fire Crystal Staff (Rare)
+Room behind Throne Room with Fire Goblin King who drops Ring of the Goblin Lords (Common) and Sceptre of Flame (Rare)
+Hallway leading to Jail, end of hall has Inferno Goblin Torturer who drops Turquoise Eyepatch (Common) and Momento Box (Rare)
+"High Shaman Room" with Fire Goblin High Shaman who drops Glowing Stone Band (Common) and Platinum Dragon Totem (Rare)
+Room with Lynada the Exiled who drops Sparkle Purse
+*Note: the lettered areas above are zone points to the corresponding lettered areas in Nagafen's Lair (Sol B)

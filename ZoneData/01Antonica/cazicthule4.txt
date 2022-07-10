@@ -1,0 +1,3 @@
+-28|496|526|782|Maze
+1. Wizard Pyramid - port here with Wizard spell or Lizard Blood Potion 
+*a clay golem spawns in the Maze somewhere and drops Ball of Golem Clay (common) and Lizardskin Tribal Mask (rare), also Radiant spawns here and drops Gloves for Enchanter quest 

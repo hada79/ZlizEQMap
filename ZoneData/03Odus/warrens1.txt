@@ -1,0 +1,15 @@
+269|232|2520|1665
+Diseased Room with Muglwump who drops (all with equal chance) Cast Iron Stein, Midnight Sea Mail Coat, Uliorn's Fishing Pole, Soiled Evoker's Robe, Etched Chitin Shield. Helm of the Ridossan. and Violet Flame Lantern
+Kitchen with Foodmaster Rargnar who drops BBQ Erudite Steaks (Common) and Smithy Rrarrgin who drops Large Empty Crate (Uncommon) Yee Auld Ball Peen Hammer (Rare)
+Batling Caves with Krode the Diviner who drops Krode's Shawl (Rare)
+Room with Lorekeeper Roggik who drops Globe of Everburning Flame (Uncommon)
+Room with Warlord Drrig who drops Blood Crusted Two Handed Sword (Common), secret one-way pit to Batling Caves
+Prince's Room with Prince Gragnor who drops Bracer of the Forlorn (Rare), Shield of the Forlorn, (Rare), Cloak of the Forlorn (Rare) and Bamboo Splint Coat (Rare)
+Training Room with Trainer Daxgrr
+Hallway with Jailor Mkrarrg who drops Bronze Shackle Keys (Common)
+Rat Room with Packmaster Dledsh who drops Packmasters Whip (Uncommon) and Filth Covered Boots (Rare)
+Prison Area
+Throne Room with High Shaman Drogik who drops Runed Bokken (Common), Globe of Everburning Flame (Uncommon) and Odd Cold Iron Necklace (Uncommon), and King Gragnor who drops Forlorn Naginata (Rare) and Scepter of the Forlorn (Rare) and Crown of the Forlorn (Rare) and Cold Iron Armor (Rare)
+Room with Huntmaster Furgrl who drops Forlorn Arrow (Common) and Forlorn Bow (Rare)
+Bat Room with Cave Bat Lord who drops Azzar's Dreadful Hat (Uncommon)
+Room with Mighty Bear Paw who drops Bear Paw's Pelt (Rare)

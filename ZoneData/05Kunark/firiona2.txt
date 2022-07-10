@@ -1,0 +1,21 @@
+723|-367|2840|2784|Docks
+Merchant selling Food, Water, Cookbooks, and Mixing Bowl
+Merchants selling Bags and Boxes
+Merchants selling Weapons, Medium Plate and Chain Armor, Oven and Forge outside
+Tunnel inside that leads to west side of the bay
+Merchants selling Bard Songs, Alcohol, Brewing Supplies and Brew Barrel
+Merchant selling Monk Weapons
+Merchant selling Unfinished Bard Instruments
+Ranger Trainer, Merchants selling All Bow and Arrow Fletching Supplies, High Level Ranger Spells
+Bank
+Merchant selling Medium Leather Armor
+Underwater Tunnel that opens at area 19, also Warrior Trainer
+Enchanter, Wizard, and Magician Trainers, Merchants selling Enchanter, Wizard, and Magician Spells
+Merchants selling Most Jewelry Supplies
+Rogue Trainer, Merchant selling Poison Supplies
+Merchants selling Large and Small Sewing Kits and Patterns
+Merchants selling Magic Stones, Potions, High Level Druid Spells
+Paladin Trainer, Merchant selling Cleric and Paladin Spells
+Merchants selling Fishing Supplies, Bows and Arrows, Alchemy Supplies, Bags, and High Level Shaman Spells
+Underwater Tunnel that opens to area 11
+Boat to Butcherblock Mountains

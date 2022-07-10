@@ -1,0 +1,3 @@
+485|514|1396|1621|Levels 1-4
+*Letters denote teleportation points between floors, all are one-way
+*Zliz note: Player position is only accurate for the "Level Four" part of the map.

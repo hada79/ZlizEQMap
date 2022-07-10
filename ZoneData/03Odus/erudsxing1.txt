@@ -1,0 +1,7 @@
+657|-121|1790|1669
+Sunken Haunted Ship
+Ancient Statues
+Volcanic Crater
+Merchant selling Fishing Supplies and Weapons
+Dock for boat to Erudin
+*Not shown on the above maps are the two boat routes. The route from Erudin to Qeynos is from +380, +1780 to +380, -580 along a due easterly course. The route from Qeynos to Erudin starts at -440, -2200, travels westerly until approximately -480,-650 at which point it veers southward and comes up alongside the island to dock at #5 above. It then disembarks and travels south until approximately -2000, -675 at which point it begins to turn westward, and eventually leaves at -2800, +2540.

@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1167AFC2-AA7C-413D-BDE0-962F327473C1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ZlizEQMap</RootNamespace>
+    <AssemblyName>ZlizEQMap</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Images\wufist_14.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Test|x86'">
+    <OutputPath>bin\x86\Test\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Test|AnyCPU'">
+    <OutputPath>bin\Test\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Test|x64'">
+    <OutputPath>bin\x64\Test\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HtmlRenderer.WinForms">
+      <HintPath>ExternalBinaries\HtmlRenderer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\ZlizPictureBox.cs" />
+    <Compile Include="Forms\SettingsHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SettingsHelp.Designer.cs">
+      <DependentUpon>SettingsHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enums.cs" />
+    <Compile Include="Forms\FirstRun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FirstRun.Designer.cs">
+      <DependentUpon>FirstRun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ZlizEQMapForm.DesignerCustom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LegendTextFactory.cs" />
+    <Compile Include="LogFileParser.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Forms\ZlizEQMapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ZlizEQMapForm.Designer.cs">
+      <DependentUpon>ZlizEQMapForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnitTestDetector.cs" />
+    <Compile Include="ZoneData.cs" />
+    <Compile Include="ZoneDataFactory.cs" />
+    <Compile Include="Paths.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Controls\ZlizLabel.cs" />
+    <Compile Include="Controls\ZlizPanel.cs" />
+    <EmbeddedResource Include="Forms\FirstRun.resx">
+      <DependentUpon>FirstRun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SettingsHelp.resx">
+      <DependentUpon>SettingsHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ZlizEQMapForm.resx">
+      <DependentUpon>ZlizEQMapForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.md" />
+    <Content Include="ZoneData\01Antonica\arena1.txt" />
+    <Content Include="ZoneData\01Antonica\befallen1.txt" />
+    <Content Include="ZoneData\01Antonica\befallen2.txt" />
+    <Content Include="ZoneData\01Antonica\beholder1.txt" />
+    <Content Include="ZoneData\01Antonica\blackburrow1.txt" />
+    <Content Include="ZoneData\01Antonica\blackburrow2.txt" />
+    <Content Include="ZoneData\01Antonica\blackburrow3.txt" />
+    <Content Include="ZoneData\01Antonica\cazicthule1.txt" />
+    <Content Include="ZoneData\01Antonica\cazicthule2.txt" />
+    <Content Include="ZoneData\01Antonica\cazicthule3.txt" />
+    <Content Include="ZoneData\01Antonica\cazicthule4.txt" />
+    <Content Include="ZoneData\01Antonica\commons1.txt" />
+    <Content Include="ZoneData\01Antonica\eastkarana1.txt" />
+    <Content Include="ZoneData\01Antonica\ecommons1.txt" />
+    <Content Include="ZoneData\01Antonica\everfrost1.txt" />
+    <Content Include="ZoneData\01Antonica\everfrost2.txt" />
+    <Content Include="ZoneData\01Antonica\feerrott1.txt" />
+    <Content Include="ZoneData\01Antonica\freporte1.txt" />
+    <Content Include="ZoneData\01Antonica\freporte2.txt" />
+    <Content Include="ZoneData\01Antonica\freportn1.txt" />
+    <Content Include="ZoneData\01Antonica\freportw1.txt" />
+    <Content Include="ZoneData\01Antonica\freportw2.txt" />
+    <Content Include="ZoneData\01Antonica\grobb1.txt" />
+    <Content Include="ZoneData\01Antonica\gukbottom1.txt" />
+    <Content Include="ZoneData\01Antonica\gukbottom2.txt" />
+    <Content Include="ZoneData\01Antonica\guktop1.txt" />
+    <Content Include="ZoneData\01Antonica\halas1.txt" />
+    <Content Include="ZoneData\01Antonica\highkeep1.txt" />
+    <Content Include="ZoneData\01Antonica\highkeep2.txt" />
+    <Content Include="ZoneData\01Antonica\highpass1.txt" />
+    <Content Include="ZoneData\01Antonica\innothule1.txt" />
+    <Content Include="ZoneData\01Antonica\kithicor1.txt" />
+    <Content Include="ZoneData\01Antonica\lakerathe1.txt" />
+    <Content Include="ZoneData\01Antonica\lavastorm1.txt" />
+    <Content Include="ZoneData\01Antonica\misty1.txt" />
+    <Content Include="ZoneData\01Antonica\najena1.txt" />
+    <Content Include="ZoneData\01Antonica\nektulos1.txt" />
+    <Content Include="ZoneData\01Antonica\neriaka1.txt" />
+    <Content Include="ZoneData\01Antonica\neriakb1.txt" />
+    <Content Include="ZoneData\01Antonica\neriakc1.txt" />
+    <Content Include="ZoneData\01Antonica\northkarana1.txt" />
+    <Content Include="ZoneData\01Antonica\nro1.txt" />
+    <Content Include="ZoneData\01Antonica\oasis1.txt" />
+    <Content Include="ZoneData\01Antonica\oggok1.txt" />
+    <Content Include="ZoneData\02Faydwer\oot1.txt" />
+    <Content Include="ZoneData\01Antonica\paw1.txt" />
+    <Content Include="ZoneData\01Antonica\permafrost1.txt" />
+    <Content Include="ZoneData\01Antonica\qcat1.txt" />
+    <Content Include="ZoneData\01Antonica\qey2hh11.txt" />
+    <Content Include="ZoneData\01Antonica\qeynos1.txt" />
+    <Content Include="ZoneData\01Antonica\qeynos21.txt" />
+    <Content Include="ZoneData\01Antonica\qeytoqrg1.txt" />
+    <Content Include="ZoneData\01Antonica\qrg1.txt" />
+    <Content Include="ZoneData\01Antonica\rathemtn1.txt" />
+    <Content Include="ZoneData\01Antonica\rivervale1.txt" />
+    <Content Include="ZoneData\01Antonica\runnyeye1.txt" />
+    <Content Include="ZoneData\01Antonica\runnyeye2.txt" />
+    <Content Include="ZoneData\01Antonica\runnyeye3.txt" />
+    <Content Include="ZoneData\01Antonica\runnyeye4.txt" />
+    <Content Include="ZoneData\01Antonica\soldunga1.txt" />
+    <Content Include="ZoneData\01Antonica\soldungb1.txt" />
+    <Content Include="ZoneData\01Antonica\soltemple1.txt" />
+    <Content Include="ZoneData\01Antonica\soltemple2.txt" />
+    <Content Include="ZoneData\01Antonica\southkarana1.txt" />
+    <Content Include="ZoneData\01Antonica\southkarana2.txt" />
+    <Content Include="ZoneData\01Antonica\southkarana3.txt" />
+    <Content Include="ZoneData\01Antonica\sro1.txt" />
+    <Content Include="ZoneData\02Faydwer\akanon1.txt" />
+    <Content Include="ZoneData\02Faydwer\butcher1.txt" />
+    <Content Include="ZoneData\02Faydwer\cauldron1.txt" />
+    <Content Include="ZoneData\02Faydwer\crushbone1.txt" />
+    <Content Include="ZoneData\02Faydwer\felwithea1.txt" />
+    <Content Include="ZoneData\02Faydwer\felwitheb1.txt" />
+    <Content Include="ZoneData\02Faydwer\gfaydark1.txt" />
+    <Content Include="ZoneData\02Faydwer\gfaydark2.txt" />
+    <Content Include="ZoneData\02Faydwer\kaladima1.txt" />
+    <Content Include="ZoneData\02Faydwer\kaladimb1.txt" />
+    <Content Include="ZoneData\02Faydwer\kedge1.txt" />
+    <Content Include="ZoneData\02Faydwer\lfaydark1.txt" />
+    <Content Include="ZoneData\02Faydwer\mistmoore1.txt" />
+    <Content Include="ZoneData\02Faydwer\steamfont1.txt" />
+    <Content Include="ZoneData\02Faydwer\steamfont2.txt" />
+    <Content Include="ZoneData\02Faydwer\unrest1.txt" />
+    <Content Include="ZoneData\02Faydwer\unrest2.txt" />
+    <Content Include="ZoneData\03Odus\erudint1.txt" />
+    <Content Include="ZoneData\03Odus\erudnext1.txt" />
+    <Content Include="ZoneData\03Odus\erudnext2.txt" />
+    <Content Include="ZoneData\03Odus\erudsxing1.txt" />
+    <Content Include="ZoneData\03Odus\hole1.txt" />
+    <Content Include="ZoneData\03Odus\kerraridge1.txt" />
+    <Content Include="ZoneData\03Odus\paineel1.txt" />
+    <Content Include="ZoneData\03Odus\paineel2.txt" />
+    <Content Include="ZoneData\03Odus\stonebrunt1.txt" />
+    <Content Include="ZoneData\03Odus\toxxulia1.txt" />
+    <Content Include="ZoneData\03Odus\warrens1.txt" />
+    <Content Include="ZoneData\04The Planes\airplane1.txt" />
+    <Content Include="ZoneData\04The Planes\fearplane2.txt" />
+    <Content Include="ZoneData\04The Planes\fearplane1.txt" />
+    <Content Include="ZoneData\04The Planes\hateplane1.txt" />
+    <Content Include="ZoneData\05Kunark\burningwood1.txt" />
+    <Content Include="ZoneData\05Kunark\cabeast1.txt" />
+    <Content Include="ZoneData\05Kunark\cabwest1.txt" />
+    <Content Include="ZoneData\05Kunark\charasis3.txt" />
+    <Content Include="ZoneData\05Kunark\chardok1.txt" />
+    <Content Include="ZoneData\05Kunark\chardok2.txt" />
+    <Content Include="ZoneData\05Kunark\chardok3.txt" />
+    <Content Include="ZoneData\05Kunark\chardok4.txt" />
+    <Content Include="ZoneData\05Kunark\chardok5.txt" />
+    <Content Include="ZoneData\05Kunark\citymist1.txt" />
+    <Content Include="ZoneData\05Kunark\citymist2.txt" />
+    <Content Include="ZoneData\05Kunark\charasis1.txt" />
+    <Content Include="ZoneData\05Kunark\charasis2.txt" />
+    <Content Include="ZoneData\05Kunark\dalnir1.txt" />
+    <Content Include="ZoneData\05Kunark\dalnir2.txt" />
+    <Content Include="ZoneData\05Kunark\dalnir3.txt" />
+    <Content Include="ZoneData\05Kunark\dreadlands1.txt" />
+    <Content Include="ZoneData\05Kunark\dreadlands2.txt" />
+    <Content Include="ZoneData\05Kunark\droga1.txt" />
+    <Content Include="ZoneData\05Kunark\droga2.txt" />
+    <Content Include="ZoneData\05Kunark\emeraldjungle1.txt" />
+    <Content Include="ZoneData\05Kunark\fieldofbone1.txt" />
+    <Content Include="ZoneData\05Kunark\fieldofbone2.txt" />
+    <Content Include="ZoneData\05Kunark\firiona1.txt" />
+    <Content Include="ZoneData\05Kunark\firiona2.txt" />
+    <Content Include="ZoneData\05Kunark\frontiermtns1.txt" />
+    <Content Include="ZoneData\05Kunark\kaesora1.txt" />
+    <Content Include="ZoneData\05Kunark\kaesora2.txt" />
+    <Content Include="ZoneData\05Kunark\karnor1.txt" />
+    <Content Include="ZoneData\05Kunark\karnor2.txt" />
+    <Content Include="ZoneData\05Kunark\kurn1.txt" />
+    <Content Include="ZoneData\05Kunark\kurn2.txt" />
+    <Content Include="ZoneData\05Kunark\lakeofillomen1.txt" />
+    <Content Include="ZoneData\05Kunark\lakeofillomen2.txt" />
+    <Content Include="ZoneData\05Kunark\lakeofillomen3.txt" />
+    <Content Include="ZoneData\05Kunark\nurga1.txt" />
+    <Content Include="ZoneData\05Kunark\nurga2.txt" />
+    <Content Include="ZoneData\05Kunark\overthere1.txt" />
+    <Content Include="ZoneData\05Kunark\sebilis1.txt" />
+    <Content Include="ZoneData\05Kunark\sebilis2.txt" />
+    <Content Include="ZoneData\05Kunark\skyfire1.txt" />
+    <Content Include="ZoneData\05Kunark\swampofnohope1.txt" />
+    <Content Include="ZoneData\05Kunark\timorous1.txt" />
+    <Content Include="ZoneData\05Kunark\trakanon1.txt" />
+    <Content Include="ZoneData\05Kunark\trakanon2.txt" />
+    <Content Include="ZoneData\05Kunark\veeshan1.txt" />
+    <Content Include="ZoneData\05Kunark\warslikswood1.txt" />
+    <Content Include="ZoneData\05Kunark\warslikswood2.txt" />
+    <Content Include="ZoneData\06Velious\cobaltscar1.txt" />
+    <Content Include="ZoneData\06Velious\growthplane1.txt" />
+    <Content Include="ZoneData\06Velious\mischiefplane1.txt" />
+    <Content Include="ZoneData\06Velious\westwastes1.txt" />
+    <Content Include="ZoneData\06Velious\wakening1.txt" />
+    <Content Include="ZoneData\06Velious\velketor2.txt" />
+    <Content Include="ZoneData\06Velious\velketor1.txt" />
+    <Content Include="ZoneData\06Velious\frozenshadow2.txt" />
+    <Content Include="ZoneData\06Velious\frozenshadow3.txt" />
+    <Content Include="ZoneData\06Velious\frozenshadow1.txt" />
+    <Content Include="ZoneData\06Velious\templeveeshan2.txt" />
+    <Content Include="ZoneData\06Velious\templeveeshan1.txt" />
+    <Content Include="ZoneData\06Velious\sleeper1.txt" />
+    <Content Include="ZoneData\06Velious\sirens2.txt" />
+    <Content Include="ZoneData\06Velious\sirens3.txt" />
+    <Content Include="ZoneData\06Velious\sirens1.txt" />
+    <Content Include="ZoneData\06Velious\iceclad1.txt" />
+    <Content Include="ZoneData\06Velious\greatdivide1.txt" />
+    <Content Include="ZoneData\06Velious\eastwastes1.txt" />
+    <Content Include="ZoneData\06Velious\necropolis3.txt" />
+    <Content Include="ZoneData\06Velious\necropolis4.txt" />
+    <Content Include="ZoneData\06Velious\necropolis2.txt" />
+    <Content Include="ZoneData\06Velious\necropolis1.txt" />
+    <Content Include="ZoneData\06Velious\crystal3.txt" />
+    <Content Include="ZoneData\06Velious\crystal2.txt" />
+    <Content Include="ZoneData\06Velious\crystal1.txt" />
+    <Content Include="ZoneData\06Velious\thurgadina2.txt" />
+    <Content Include="ZoneData\06Velious\thurgadina1.txt" />
+    <Content Include="ZoneData\06Velious\skyshrine1.txt" />
+    <Content Include="ZoneData\06Velious\skyshrine2.txt" />
+    <Content Include="ZoneData\06Velious\skyshrine3.txt" />
+    <Content Include="ZoneData\06Velious\skyshrine4.txt" />
+    <Content Include="ZoneData\06Velious\skyshrine5.txt" />
+    <Content Include="ZoneData\06Velious\skyshrine6.txt" />
+    <Content Include="ZoneData\06Velious\skyshrine7.txt" />
+    <Content Include="ZoneData\06Velious\skyshrine8.txt" />
+    <Content Include="ZoneData\06Velious\skyshrine9.txt" />
+    <Content Include="ZoneData\06Velious\kael1.txt" />
+    <Content Include="ZoneData\06Velious\thurgadinb1.txt" />
+    <Content Include="ZoneData\07Luclin\shadeweaver1.txt" />
+    <Content Include="ZoneData\07Luclin\sharvahl1.txt" />
+    <Content Include="ZoneData\07Luclin\sharvahl2.txt" />
+    <Content Include="ZoneData\08Planes of Power\poknowledge1.txt" />
+    <Content Include="ZoneData\ZoneConnections.txt" />
+    <Content Include="ZoneData\ZoneData-The Al%27Kabor Project.txt" />
+    <Content Include="ZoneData\ZoneData-Project1999.txt" />
+    <EmbeddedResource Include="Images\eqatlasbg.jpg" />
+    <EmbeddedResource Include="Images\wufist_14.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy "$(ProjectDir)ZoneMaps\*.*" "$(ProjectDir)bin\$(Configuration)\ZoneMaps" /Y /I /E
+xcopy "$(ProjectDir)ZoneData\*.txt" "$(ProjectDir)bin\$(Configuration)\ZoneData" /Y /I /E</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

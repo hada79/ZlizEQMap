@@ -1,0 +1,7 @@
+201|397|8988|12649
+Sarnak Fortress
+Haunted Ruins
+Forest Giant Fort (loc 990, 1125)
+Meteor with Slixin Klex nearby (loc -2870, -4820)
+Sarnak Temple (loc -1200, -3945)
+Hornet's Nest (loc -2580, 2700)

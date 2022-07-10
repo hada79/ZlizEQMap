@@ -1,0 +1,2 @@
+199|388|3103|3960
+*Zliz note: Loc scaling and precision is approximate.

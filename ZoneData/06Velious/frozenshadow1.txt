@@ -1,0 +1,12 @@
+485|514|1396|1621|Levels 1-4
+Pit with slippery border
+Librarian and Librarian Assistant
+Bookcase Trap
+Shadow Beast Room
+Pool Room
+Skeleton Sleeper Area
+Cara Omica on top level, bottom level has teleporter that takes you to point C
+Locked Door
+*Letters denote teleportation points between floors, all are one-way
+*Red squares on Level 4 denote pit traps
+*Zliz note: Player position is only accurate for the "Level Four" part of the map.

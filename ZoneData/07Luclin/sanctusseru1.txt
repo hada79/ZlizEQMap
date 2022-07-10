@@ -1,0 +1,20 @@
+260|267|3804|4344
+Teleporters to Observation Decks
+Alcohol, Brew Barrel
+Alcohol, Brew Barrel
+Small Chain Patterns, Weapons Molds, Goods, Cooking Books, Oven
+Weapon Molds, Spell Components, Coffins, Cooking Supplies
+Bank, Spell Components, Coffins, Basic Dyeing Supplies
+Fletching Supplies
+Alcohol, Brewing Supplies and Books, Brew Barrel
+Small Plate Molds, Basic Blacksmithing and Dyeing Supplies, Forge, Potions, Crystals, Goods
+Sewing Patterns, Sewing Kit, Food and Goods, Chainmail Patterns
+Bank, Potions, Crystals, Food and Drink
+Jewelry Gems and Metal, Potions, Crystals, Pottery Supplies and Sketches, Pottery Wheel, Kiln
+Alcohol, Brew Barrel
+Rogue Trainer, Warrior Trainer; Cleric, Enchanter, Magician, Paladin and Wizard Spells
+Cleric Trainer, Enchanter Trainer, Monk Trainer, Warrior Trainer, Wizard Trainer; Cleric, Enchanter, Ranger, and Wizard Spells
+Cleric Trainer, Rogue Trainer, Monk Trainer, Paladin Trainer, Warrior Trainer, Wizard Trainer; Cleric, Paladin, Ranger, and Wizard Spells
+Rogue Trainer, Paladin Trainer, Warrior Trainer, Wizard Trainer; Cleric and Ranger Spells
+Locked Stronghold of Seru
+Arena Master on lower level, Arena on lower level, Observation stands on upper level

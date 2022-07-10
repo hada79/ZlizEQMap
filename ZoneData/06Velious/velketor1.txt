@@ -1,0 +1,2 @@
+0|0|2000|3000
+*Zliz note: Loc scale of the map is unknown and player position will be inaccurate.

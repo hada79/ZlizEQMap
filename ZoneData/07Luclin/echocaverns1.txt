@@ -1,0 +1,20 @@
+332|353|3205|4050
+1 Necromancer Trainer
+2 Wizard, Necromancer, Magician, and Enchanter Trainers, Bank
+3 Shadow Knight Trainer, Rogue Trainer, Warrior Trainer, Fordel weapons
+4a Various Spellcaster Supplies, Shadowknight spells
+b Cleric Trainer, Necromancer spells, Stews and Meats
+c Gems
+d Food and Goods
+e empty
+f Poison Supplies
+g Jewelry Supplies
+h Alcohol
+5 Lilypad Room - Bogling Cultists and The Great Saprophyte
+6 Needlite Hive with Needlite Queen
+7 Mutant Area
+8 Taskmaster Torkazh and Slaves, Xilniov
+9 Gnome Kings
+10 Tinkering Supplies
+11 The Elevator
+12 One way drop in from Shadow Haven water near Paludal zone

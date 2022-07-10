@@ -1,0 +1,9 @@
+202|-15|561|635|Levels One and Two
+Dark Elf Shadow Knight who drops Splintered Wooden Key (Always) and Chipped Bone Rod (Common)
+Skeleton Lrodd and pit to area 1 on level 3
+Human female Shadow Knight who drops Charred Bone Key, also pit trap to area 4 on level 3
+Ogre Shadow Knight who drops Smoked Glass Key (Always) and Barbed Armplates (Rare)
+The Broken Stair
+*A First locked door, requires Splintered Wooden Key
+*B Second locked door, requires Charred Bone Key
+*C Third locked door, requires Smoked Glass Key

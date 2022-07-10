@@ -1,0 +1,4 @@
+280|438|1538|1542|Lower Levels
+Avatar Pyramid - lower level spawns Avatar of Fear which drops Bladed Thulian Claws (common) and Ravenscale Chestguard (rare), and Cazic Cenobite who drops Lizard Blood Potion (common) and Ravenscale Boots (rare)
+"The Ponds"
+"Gator Pit" - many powerful alligators and a steel golem who spawns underwater and drops Golem Metal Wand (common) and Ravenscale Gloves (rare) 

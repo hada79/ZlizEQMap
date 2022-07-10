@@ -1,0 +1,9 @@
+181|-264|486|720|Level Three
+Pit from area 2 on level 1
+Spawn area of Thaumaturgist who drops Dagger of Marnek (Common), Gossimer Robe (Uncommon) and Thaumaturgist's Robe (Rare) and Damask Robe (Rare), and Priest Amiaz who drops Blackened Wand (Rare)
+Spawn area of Troll Shadow Knight who drops Bone Bladed Claymore (Rare)
+Bottom of pit trap in area 3 on level 2
+Spawn area of Elf Skeleton who drops Thex Mallet Piece
+Spawn area of Dark Elf Female Shadow Knight who drops Barbed Legplates (Rare)
+*C Locked door, requires smoked glass key
+*Note that in the room north of #6 is the spawn spot of Babbinsbort who drops Icon of the Ardent

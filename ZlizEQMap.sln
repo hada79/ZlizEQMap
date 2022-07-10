@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZlizEQMap.Test", "ZlizEQMap.Test\ZlizEQMap.Test.csproj", "{665AF3C6-7AD9-4818-850E-2F725CCFD10E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B3CED2D3-7055-44A7-8493-642545832C8E}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+		ZlizEQMap.vsmdi = ZlizEQMap.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZlizEQMap", "ZlizEQMap.csproj", "{1167AFC2-AA7C-413D-BDE0-962F327473C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Test|Any CPU = Test|Any CPU
+		Test|x64 = Test|x64
+		Test|x86 = Test|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Debug|x86.Build.0 = Debug|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Release|x64.ActiveCfg = Release|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Release|x86.ActiveCfg = Release|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Release|x86.Build.0 = Release|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Test|Any CPU.Build.0 = Test|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Test|x64.ActiveCfg = Test|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Test|x86.ActiveCfg = Test|Any CPU
+		{665AF3C6-7AD9-4818-850E-2F725CCFD10E}.Test|x86.Build.0 = Test|Any CPU
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Debug|x64.ActiveCfg = Debug|x64
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Debug|x64.Build.0 = Debug|x64
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Debug|x86.ActiveCfg = Debug|x86
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Debug|x86.Build.0 = Debug|x86
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Release|x64.ActiveCfg = Release|x64
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Release|x64.Build.0 = Release|x64
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Release|x86.ActiveCfg = Release|x86
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Release|x86.Build.0 = Release|x86
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Test|Any CPU.Build.0 = Test|Any CPU
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Test|x64.ActiveCfg = Test|x64
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Test|x64.Build.0 = Test|x64
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Test|x86.ActiveCfg = Test|x86
+		{1167AFC2-AA7C-413D-BDE0-962F327473C1}.Test|x86.Build.0 = Test|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {80725ADB-D231-40CE-9D45-ADAF5EE6AEF4}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ZlizEQMap.vsmdi
+	EndGlobalSection
+EndGlobal

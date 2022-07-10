@@ -1,0 +1,10 @@
+200|200|812|812|Unrest Manor (floor details)
+Back Room spawns Reclusive Ghoul Magi who drops Savants Cap (Common) and Dusty Bloodstained Gloves (Rare)
+Barroom where spawns: Undead Barkeep who drops Opalline Earring (Common) and Thick Leather Apron (Rare), and Zombie of Unrest Noble
+Room with Reanimated Hand which drops Ivory Bracelet
+Tower that spawns Priest of Najena who drops Polished Brass Key
+Tower Room
+"Tower" with Undead Knight who drops Bloodstained Mantle (Common) and Bloodstained Tunic (Rare)
+Main Basement Room, filled with Werebats and Festering Hags
+Blood Trap, be sure to walk *through* the lava, going around it will make you fall in pits
+"Dwarf Room" with Garanel Rucksforth who drops Jagged Bands (Common) and Dwarven Work Boots (Rare), also has Tentacle Terrors who drop Tentacle Whips, and Dark Terrors

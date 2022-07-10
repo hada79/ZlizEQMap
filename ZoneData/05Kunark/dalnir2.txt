@@ -1,0 +1,9 @@
+-691|386|430|459|Second Level
+Teleporter to Warsliks Woods at Dalnir Entrance
+"Shackle Room" with Kly Imprecator who drops An Ancient Coin (Common), Dagger Hilt (Common), Bamboo Bo Stick (Uncommon), and Robe of Dalnir (Ultra Rare), Coerced Crusader who drops Elliptical Veil (Uncommon) and Greenwood Bo Stick (Rare), and Coerced Channeler who drops nothing
+"Bedrooms"
+"Pool Room" where pit from Area #4 on First Level drops to
+Room with "Thistle Lumpy" (Lumpy Goo who drops Two Handed Practice Sword (Rare) and Grave Sandals (Rare))
+Room with "Carpet Lumpy" (Lumpy Goo who drops Fighting Baton (Rare) and Worm-eaten Gloves (Rare))
+Secret Pit Trap leading down to Area #7 on Level Three
+"Checkerboard Room"

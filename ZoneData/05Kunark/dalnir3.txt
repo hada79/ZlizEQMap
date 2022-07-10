@@ -1,0 +1,13 @@
+48|262|963|851|Third Level
+"BBQ Room"
+"River"
+"Church" with Kly Imprecator who drops Sharp Metal Shard (Uncommon)
+"Crusader Room" with Coerced Revenant who drops Defiled Drape of the Brood, Wand of Pain, Rod Segment I, Serpentwood Staff (Rare) and ? Tattered Tomb Shroud (Rare), Coerced Penkeeper who drops Nickle Key, Sarnak Enforcer (Uncommon) and Robe of the Foci (Rare), and Spectral Crusader who drops Bamboo Bo Stick (Rare), and ? Tattered Arm Wrappings (Rare), and Coerced Crusader who drops Elliptical Veil (Uncommon) and Greenwood Bo Stick (Rare)
+"Laboratory" with Kly Imprecator who drops Jagged Metal Shard (Uncommon)
+Broken Crypt with secret one-way door
+"Crossroads" where pit from Area #7 on Level Two drops to
+"Dining Room" with many Kly
+"Statue Room" with Undead Blacksmith who drops Sarnak Enforcer (? Rarity), Forged Hammer of Dalnir, and ? Tattered Leg Wrappings (Rare), and Coerced Penkeeper who drops Nickle Key, Sarnak Enforcer (Uncommon) and Robe of the Foci (Rare)
+"Forge Room" with Coerced Smith and "Always Works" Forge
+"Overseer Room" with Kly Overseer and The Kly who drops Sarnak Headgear
+Teleport to Warsliks Woods at Dalnir entrance

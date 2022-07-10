@@ -1,0 +1,21 @@
+1|766|1230|1240|Dead Side
+"Waterfall Room" with Scepter of Tears on ground
+Waterfall
+Room with Ghoul Lord who drops Skull Shaped Barbute (Common) and Short Sword of Ykesha (Rare)
+"Hand Room" with Reanimated Hand who drops Serpentine Bracers (Common) and Adamantite Band (Rare), as well as Wizard Rod on ground
+"Archmagi Room" with Ghoul Arch Magi who drops Silversilk Leggings (Common) and Shiny Metallic Robe (Rare)
+"Bedroom" or "BR"
+"Frenzied Room" with Frenzied Ghoul who drops Moonstone Ring (Common) and Flowing Black Silk Sash (Rare)
+"Spider Room"
+"Slave Room"
+"GIB Room" with Greater Ice Bone Skeletons; Tunnel on Lower Level beneath this room is considered "Safe Hall"
+"Sentinel Spawn" with Froglok Sentinel who drops Darkmail Gauntlets (Common) and Brigandine Tunic (Rare)
+Area with Basalt Gargoyles who drop Basalt Carapace
+"Ritualist Spawn" with Black Embroidered Cape (Common) and Black Embroidered Sleeves (Rare)
+"Store Room" or "SR" or "Ass Sup Room" with Ghoul Assassin who drops Mask of Deception (Common) and Serrated Bone Dirk (Rare) and Ghoul Supplier who drops Light Burlap Sack (Common) and Thick Banded Belt (Rare)
+"Savant Room" with Ghoul Savant who drops Enamelled Black Mace (Common) and Enamelled Black Chestplate (Rare)
+"Cavalier Room" with Ghoul Cavalier who drops Adamantite Epolets (Common) and Dark Reaver (Rare)
+"Sage Room" with Ghoul Sage who drops Braided Cinch Cord (Common) and Runed Cowl (Rare) and Ghoul Scribe who drops Tattered Scroll of Flesh (Common) and Gorgon Quill (Rare)
+"Executioner Room" with Ghoul Executioner who drops Executioner's Hood (Common) and Executioner's Axe (Rare)
+*A, B, and C are all connections to Upper Guk
+*D is underground tunnel to D on Level Three

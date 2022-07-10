@@ -1,0 +1,14 @@
+159|175|3304|2929
+1 Starlight Music - Musical Instruments, Bard Songs; Adornments of the Night - Metal and Gems, Cloth Patterns, Loom 	 
+2 Bard Trainer, Shaman Trainer 	 
+2a Druid Trainer 	 
+3 Mansion 	 
+4 Bread Breakers Baked Goods - Oven, Cooking Supplies, Cooking Molds, Brewing Supplies, Food and Other Goods, Bags 	 
+5 Second Kin Armory - Combine Plate and Chain Armor, Plate Molds, Blacksmithing Books, Chain Patterns, Forge, Ore, Hammers, Dyes, Superior Combine Weapons, Blade Molds, Combine Ranged Weapons 	 
+6 Cleric, Monk, Paladin, Ranger, Rogue, and Warrior Trainers 	 
+7 Midnight Ceramics - Clay, Ore, Sheets, Pottery Sketches, Kiln, Pottery Wheel; Shooting Stars Archery - Fletching Equipment, Bowmaking Equipment 	 
+8 Graveyard outside 	 
+9 (upper level) Enchanter, Magician, and Wizard Trainers and Spells, including high-level Magician pet spells 	 
+9 (underground area) Tinkering Supplies 	 
+10 Bank 	 
+11 Nectar of Unity Brewery and Tavern - Alcohol, Brew Barrel

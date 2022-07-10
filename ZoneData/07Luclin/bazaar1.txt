@@ -1,0 +1,12 @@
+205|193|968|1385
+The Palaestra, the Arena 	 
+empty 	 
+Sewing Kit 	 
+Stable with Forge 	 
+empty 	 
+Oven 	 
+Merchants selling Tailoring Patterns, Books, and Kit, Basic Dying and Smithing Supplies, Spell Components, Coffins, Small, Medium, and Large Plate Molds, and Alcohol 	 
+Pottery Wheel, Forge 	 
+Pottery Wheel, Kiln 	 
+Bank 	 
+Bank

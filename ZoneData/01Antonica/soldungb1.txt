@@ -1,0 +1,21 @@
+150|-12|1462|1581
+"Pool Room"
+"Window Room"
+"Circle Room"
+"Efreeti Room" with Efreeti Lord Djarn who drops Golden Efreeti Boots (Common) and Djarn's Amethyst Ring (Rare)
+"Noble Room" with Kobold Noble who drops Staff of Writhing (Common) and Petrified Erudite Heart Amulet (Rare)
+"King Room" with Kobold King who drops Runed Mithril Bracers (Common) and Fleshripper (Rare) and Targin the Rock who drops Code of Zan Fi
+"Priest Room" with Kobold Priest who drops Carnal Pauldrons (Common) and Mithril Breastplate (Rare)
+"Champion Room" with Kobold Champion who drops Shield of the Slain Unicorn (Common) and Painbringer (Rare)
+Block Crusher Trap
+"Lily Pads" stepping stones across river of lava
+"Death Beetle Room" with Death Beetle who drops Black Chitin Leggings (Common) and Death Scarab Gland (Rare)
+"Nox Corridor" with Noxious Spider who drops Green Silken Drape (Common) and Gold Chitin Bracer (Rare)
+"Stone Spider Room" with Stone Spider who drops Crystalline Orb (Common) and Brown Chitin Protector (Rare)
+"Collector's Room" with Guano Harvester who is invisible and drops Large Soiled Bag (Common) and Cloak of Shadows (Rare)
+Entrance to Fire Giant Castle, note that there are many doors in the castle that are not noted on the map above
+"Throne Room" with King Tranix who drops Polished Mithril Torque (Common) and Crown of King Tranix (Rare)
+"Skarlon Room" with Warlord Skarlon who drops Mithril Vambraces (Common), Mithril Greaves (Rare) and Razing Sword of Skarlon (ultra-rare)
+"Drawbridge Room" with two levers to lower drawbridge at southern edge, bridge raises on its own after a period of time
+"Nagafen's Lair" with Magi Rokyl who drops Polished Mithril Mask (Common) and Rokyl's Channeling Crystal (Rare) and Lord Nagafen who drops include: Bladestopper, Blight, Hammer of the Scourge, Cloak of Flames, Dragon Tooth, Gauntlets of Fiery Might, Gold Plated Koshigatana, Heirophant's Crook, Orb of Tishan, Prayers of Life, Red Dragon Scale, Red Dragon Tooth, Selo's Drums of the March, Treasure Hunter's Satchel
+*Note: the lettered areas above are zone points to the corresponding lettered areas in Solusek's Eye (Sol A)

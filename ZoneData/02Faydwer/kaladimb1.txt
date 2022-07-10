@@ -1,0 +1,12 @@
+257|646|820|939
+Merchant selling Gems
+Merchant selling Brellium, Ore, Smithy Hammers, Sharpening Stones
+Cleric Guild - Merchants selling Blunt Weapons, Food and Goods Merchant outside
+Watsbone Treasure and Assay Office - Bank, Merchants who sell Throwing Weapons, Mining Supplies, Rogue Guild Members outside
+Pottery Wheel and Kiln
+Empty Hut
+Empty Hut
+Everhot Forge - Merchants selling Blunt and Sharp Weapons, Small Chain and Plate Armor, Small Plate and Shield Molds, Weapon Molds, Jewelry Metal and Rare Gems, Forge Outside
+Greybloom Farms - Merchants selling Grapes, Brew Barrel inside, Oven outside
+Paladin Guild
+*Note that there is a Merchant who sells Ore located at approximately 750, 200 on the above map.
