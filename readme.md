@@ -3,7 +3,9 @@
 ZlizEQMap is a map tool mainly designed for servers that emulate old versions of EverQuest. It features a local database of maps from the old EQAtlas website (now hosted on allakabor.com and tessmage.com), along with player positioning (x plotted on map), transparent overlay, waypoints, zone connections, and more.
 
 Original developer - Zliz http://www.zlizeq.com/ZlizEQ_Projects-ZlizEQMap
+
 Adapted for TKAP by Baler
+
 Updates and currently maintained by Cadsuane
 
 
