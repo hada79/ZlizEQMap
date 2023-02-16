@@ -47,7 +47,7 @@ soldunga=Solusek's Eye
 soldungb=Nagafen's Lair
 soltemple=Temple of Solusek Ro
 southkarana=Southern Plains of Karana
-sro=South Desert of Ro
+sro=Southern Desert of Ro
 
 // 02Faydwer
 akanon=Ak'Anon
@@ -61,7 +61,7 @@ kaladima=South Kaladim
 kaladimb=North Kaladim
 kedge=Kedge Keep
 lfaydark=Lesser Faydark
-mistmoore=Castle Mistmoore
+mistmoore=Castle of Mistmoore
 oot=Ocean of Tears
 steamfont=Steamfont Mountains
 unrest=The Estate of Unrest
