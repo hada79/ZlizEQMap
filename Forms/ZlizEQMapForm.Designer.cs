@@ -1,4 +1,7 @@
-﻿namespace ZlizEQMap
+﻿using System;
+using System.Windows.Forms;
+
+namespace ZlizEQMap
 {
 	partial class ZlizEQMapForm
 	{
@@ -121,6 +124,9 @@
             this.comboZone.Size = new System.Drawing.Size(298, 21);
             this.comboZone.TabIndex = 2;
             this.comboZone.SelectedIndexChanged += new System.EventHandler(this.comboZone_SelectedIndexChanged);
+            this.comboZone.DropDownClosed += new EventHandler(this.comboZone_DropDownClosed);
+            this.comboZone.AutoCompleteSource = AutoCompleteSource.ListItems;
+            this.comboZone.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
             // 
             // checkGroupByContinent
             // 
