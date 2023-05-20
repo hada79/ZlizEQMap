@@ -514,7 +514,7 @@ namespace ZlizEQMap
 				PopulateZoneComboBox();
 		}
 
-		private void comboZone_SelectedIndexChanged(object sender, EventArgs e)
+		private void comboZone_DropDownClosed(object sender, EventArgs e)
 		{
 			if (!comboZone.SelectedItem.ToString().StartsWith("-") && initialLoadCompleted)
 				SwitchZone(comboZone.SelectedItem.ToString(), 1);
@@ -763,7 +763,7 @@ namespace ZlizEQMap
             watcher.Filter = assembledLogNamefilter;
             forceLogReselection = true;
         }
-    }
+	}
 
     public class MapPoint
 	{
